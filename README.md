@@ -1,11 +1,13 @@
-## Date: 27-08-2026
+
+## Date: 28-08-2026
 
 **Today's Work:**
-- Completed Session 1 String concepts class problems.
-- Solved problems related to string manipulation and verification.
+- Completed Session 1 class problems on Java String concepts.
+- Completed Session 1 assignment problems on Java String concepts.
+- Added the solved problems under `class_problems` and `assigment_problems`.
 
 **Next Session Plan:**
-- Continue with the next session's coding problems.
+- Start Session 2 and work on the next topic.
 
 **Issues Faced:**
 - None
