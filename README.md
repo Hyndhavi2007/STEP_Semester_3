@@ -25,3 +25,16 @@
 **Issues Faced:**
 - None
 ---
+## Date: 28 - 07 - 2026
+
+**Today's Work:**
+- Completed Session 3 class  on OOP.
+- Completed Session 3 assignment problems on OOP.
+
+**Next Session Plan:**
+- Continue with Session 4.
+
+**Issues Faced:**
+- None
+
+---
