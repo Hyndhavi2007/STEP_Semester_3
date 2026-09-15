@@ -52,3 +52,16 @@
 - None
 
 ---
+## Date: 08-09-2026
+- Topic : Access Modifiers
+**Today's Work:**
+- Completed Session 5 class problems.
+- Completed Session 5 assignment problems.
+
+**Next Session Plan:**
+- Continue with Session 6.
+
+**Issues Faced:**
+- None
+
+---
