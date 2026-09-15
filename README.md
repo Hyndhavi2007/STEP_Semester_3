@@ -25,7 +25,7 @@
 **Issues Faced:**
 - None
 ---
-## Date: 28 - 07 - 2026
+## Date: 28 - 08 - 2026
 
 **Today's Work:**
 - Completed Session 3 class  on OOP.
@@ -33,6 +33,20 @@
 
 **Next Session Plan:**
 - Continue with Session 4.
+
+**Issues Faced:**
+- None
+
+---
+## Date: 31-08-2026
+
+**Today's Work:**
+- Topic name: Constructors
+- Completed Session 4 class problems.
+- Completed Session 4  assignment problems.
+
+**Next Session Plan:**
+- Continue with Session 5 .
 
 **Issues Faced:**
 - None
